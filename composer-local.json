@@ -3,9 +3,7 @@
 	"description": "Greenpeace P4 Denmark",
 	"license": "MIT",
 	"require": {
-
 		"greenpeace/planet4-child-theme-nordic" : "dev-develop"
-
 	},
 	"scripts": {
 		"core:language": "wp language core install da_DK; wp language core activate da_DK",
