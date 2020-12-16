@@ -4,18 +4,21 @@
 	"license": "MIT",
 	"require": {
 		"greenpeace/planet4-child-theme-nordic" : "dev-develop",
-		"greenpeace/planet4-gpnordic-plugin-portrait" : "dev-develop"
+		"greenpeace/planet4-gpnordic-plugin-portrait" : "dev-develop",
+		"greenpeace/planet4-gpnordic-plugin-gutenberg-blocks": "dev-develop"
 	},
 	"scripts": {
 		"core:language": "wp language core install da_DK; wp language core activate da_DK",
 		"install:plugin-wpml": "wp plugin install --activate https://storage.googleapis.com/planet4-3rdparty-plugins/sitepress-multilingual-cms.4.3.12.zip",
 		"install:plugin-wpml-management": "wp plugin install --activate https://storage.googleapis.com/planet4-3rdparty-plugins/wpml-translation-management.2.9.6.zip",
 		"install:plugin-wpml-stringtranslate": "wp plugin install --activate https://storage.googleapis.com/planet4-3rdparty-plugins/wpml-string-translation.3.0.9.zip",
+		"install:plugin-acf": "wp plugin install --activate https://storage.googleapis.com/planet4-3rdparty-plugins/advanced-custom-fields-pro_5.9.3.zip",
 		"site:custom": [
 			"@core:language",
 			"@install:plugin-wpml",
 			"@install:plugin-wpml-management",
-			"@install:plugin-wpml-stringtranslate"
+			"@install:plugin-wpml-stringtranslate",
+			"@install:plugin-acf"
 		]
 	}
 }
