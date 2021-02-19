@@ -3,11 +3,10 @@
 	"description": "Greenpeace P4 Denmark",
 	"license": "MIT",
 	"require": {
-		"greenpeace/planet4-child-theme-nordic" : "1.*",
-		"greenpeace/planet4-gpnordic-plugin-portrait" : "1.0.8",
-		"plugins/sitepress-multilingual-cms": "*",
-		"plugins/wpml-translation-management": "*",
-		"plugins/wpml-string-translation": "*"
+		"greenpeace/planet4-child-theme-nordic" : "1.0.16",
+		"greenpeace/planet4-gpnordic-plugin-gutenberg-blocks": "0.0.1",
+		"greenpeace/planet4-gpnordic-plugin-leads": "1.0.0",
+    "greenpeace/planet4-gpnordic-plugin-portrait" : "1.0.8"
 	},
 	"scripts": {
 		"core:language": "wp language core install da_DK; wp language core activate da_DK",
