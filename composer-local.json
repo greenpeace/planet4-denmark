@@ -3,9 +3,7 @@
 	"description": "Greenpeace P4 Denmark",
 	"license": "MIT",
 	"require": {
-		"greenpeace/planet4-child-theme-nordic" : "1.0.16",
-		"greenpeace/planet4-gpnordic-plugin-gutenberg-blocks": "0.0.2",
-		"greenpeace/planet4-gpnordic-plugin-leads": "1.0.0",
+		"greenpeace/planet4-child-theme-nordic" : "1.0.15",
     "greenpeace/planet4-gpnordic-plugin-portrait" : "1.0.8"
 	},
 	"scripts": {
