@@ -4,7 +4,7 @@
   "license": "MIT",
   "require": {
     "greenpeace/planet4-child-theme-nordic" : "dev-develop",
-    "greenpeace/planet4-master-theme": "PLANET-7027_fix-tag-listing-page",
+    "greenpeace/planet4-master-theme": "dev-PLANET-7027_fix-tag-listing-page",
     "plugins/gravityforms": "*",
     "plugins/gravityformsquiz": "*",
     "wpackagist-plugin/wp-all-export": "1.3.7"
