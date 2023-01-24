@@ -1,7 +1,6 @@
 {
     "require": {
         "greenpeace/planet4-gpnordic-plugin-leads": "dev-develop",
-        "greenpeace/planet4-gpnordic-plugin-gutenberg-blocks": "dev-develop",
-        "greenpeace/planet4-master-theme": "PLANET-7027_fix-tag-listing-page"
+        "greenpeace/planet4-gpnordic-plugin-gutenberg-blocks": "dev-develop"
     }
 }
