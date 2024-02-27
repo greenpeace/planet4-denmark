@@ -395,7 +395,7 @@ jobs:
 
   backup:
     docker:
-      - image: greenpeaceinternational/planet4-backup:latest
+      - image: greenpeaceinternational/planet4-backup:v1.0.0
         auth:
           <<: *docker_auth
     environment:
