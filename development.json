@@ -1,6 +1,6 @@
 {
   "require": {
-    "greenpeace/planet4-master-theme": "dev-main",
+    "greenpeace/planet4-master-theme": "dev-bug/planet-7741",
     "greenpeace/planet4-plugin-gutenberg-blocks": "dev-main",
     "greenpeace/planet4-child-theme-nordic": "dev-release/v1.47.5",
     "greenpeace/planet4-gpnordic-plugin-leads": "dev-release/v1.1.13",
