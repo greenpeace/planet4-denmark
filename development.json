@@ -3,7 +3,7 @@
     "greenpeace/planet4-master-theme": "dev-add/filter-html-processor-nros",
     "greenpeace/planet4-plugin-gutenberg-blocks": "dev-main",
     "greenpeace/planet4-child-theme-nordic": "dev-test/processor-filter",
-    "greenpeace/planet4-gpnordic-plugin-leads": "dev-release/v1.1.16",
+    "greenpeace/planet4-gpnordic-plugin-leads": "dev-release/v1.1.17",
     "wpackagist-plugin/beaf-before-and-after-gallery": "4.5.*",
     "plugins/gravityformszapier": "*"
   }
